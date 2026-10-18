@@ -1,0 +1,527 @@
+{
+ "artistas": [
+  {
+   "slug": "albany",
+   "nombre": "ALBANY",
+   "sello": "LORE",
+   "generos": [
+    "Rap",
+    "Trap"
+   ],
+   "foto": "media/artistas/albany.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1SMM02GG1L8v_3FISXub1d3MwyCp0cpvM",
+   "clave": {
+    "it": 210000,
+    "s": "rCRPm9Q/d8lO6nyOL1noCQ==",
+    "i": "JvXA2AZViuFp8MWZ",
+    "c": "N4/mtBBelvztjTPnNI0XsGKcQVjwD2ktGrGiukvEEhQzeGnFOKIt6N2/WtNEc5kn/79lzHmERqpwImU7bop9aEGWgWapELbvayXSjdpjncyzEvY8Oi+nSA=="
+   }
+  },
+  {
+   "slug": "aspectjuni",
+   "nombre": "ASPECT JUNI",
+   "sello": "LORE",
+   "generos": [
+    "Afrobeat",
+    "R&B",
+    "Rap"
+   ],
+   "foto": "media/artistas/aspectjuni.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1wHgb0dM8c8C1q4cZQJBoJa4qHlzWsrV7?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "K/AZLu4MOoPXq7ke44Auqg==",
+    "i": "mz0pB49qaI/X8NZ6",
+    "c": "XFKqbtpZNnZF/iIQGjiV97sbnDwkW3tPSMkF7dCZPxcdEhgxYAeOl3XgXCC2cLo5776mFz/7jRBtg72uE7/BiFzF4wk+7LgepdUQIYtESQAhbfVNYzASGpYDWjEwupVLGAET9A=="
+   }
+  },
+  {
+   "slug": "b10",
+   "nombre": "B10",
+   "sello": "LORE",
+   "generos": [
+    "Drill"
+   ],
+   "foto": "media/artistas/b10.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1AEMXSDnjlxzsoXmpv1ti6XJ97XCx5sKk",
+   "clave": {
+    "it": 210000,
+    "s": "Ku+u8v7t4kT2GzVJJMB1kQ==",
+    "i": "nPnRp++d8bnZUr1P",
+    "c": "T12WFQKYR4RhunpKXBxwgVsrmCjRVi+JYGq58DgteNLG5k5W2o5T3G2hd9oEwutdLW8/DPm8RX6zodh2//ghibxRbTh5W4K+2xnpR8v9iKTmVL42srXsZA=="
+   }
+  },
+  {
+   "slug": "cache",
+   "nombre": "CACHE",
+   "sello": "LORE",
+   "generos": [
+    "Hip-Hop"
+   ],
+   "foto": "media/artistas/cache.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1SYri80nHvN-UB6xI19W3Kfz3kcBJ_x-4?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "1vQ0JGKz2JafSZDm7qsHBg==",
+    "i": "vv6o/tdTlwJaIIYu",
+    "c": "xV2kURajItZBZ4sei4CV4LrKuZ9wftcx0slGJvsjU0RziAmOZ51lEAhqSw4YIOGa2bTVaoHI8dvRYm3GI7Sg6EyleodbWtmgMJf19lzYWJjfIaEoHbdAB/D+CyGKOLH8+Tadvw=="
+   }
+  },
+  {
+   "slug": "camin",
+   "nombre": "CAMIN",
+   "sello": "LORE",
+   "generos": [
+    "Rap",
+    "Reggaetón",
+    "Trap"
+   ],
+   "foto": "media/artistas/camin.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1woTUUlOu8SQPnkQtBZ30Ou2i4B-y9kMP",
+   "clave": {
+    "it": 210000,
+    "s": "EhgnuTo+85EGFaq5NL17QQ==",
+    "i": "IfzYq9ajS6QRAeQq",
+    "c": "jaTPjPbPsbrqzMhSS6Pbd5J0on9dDSM9cAewN62/iY5WHNjfsofNcGQwU4fbbIFWf9+EgTTyQipa/K+uff6NxwwwUNvZ2BEtbHgn7+S+4o4G2gaaaIfmOw=="
+   }
+  },
+  {
+   "slug": "cano",
+   "nombre": "CANO",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Flamenco",
+    "Pop"
+   ],
+   "foto": "media/artistas/cano.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1_zptjtg82CQQP-7hist5LDWoK6lScZS1",
+   "clave": {
+    "it": 210000,
+    "s": "xi749H1ng663sChNkv2v3Q==",
+    "i": "VeMdUBaTaApTIf3i",
+    "c": "+FkRRGE+sO29vojqatuSkXb4Tgg4QFOtLlvlabKG85lbtvlva9sCtCGMENKa9cgnJxIIjs+OO5QdfcDf7/WVZ6BW5ebuuamn+j7drzrI47/i3DL9g70XIw=="
+   }
+  },
+  {
+   "slug": "cupido",
+   "nombre": "CUPIDO",
+   "sello": "LORE",
+   "generos": [
+    "Pop",
+    "Rock"
+   ],
+   "foto": "media/artistas/cupido.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1MrFlKfyU7LTzJ7jdQxOZFEKIHSShDr5N",
+   "clave": {
+    "it": 210000,
+    "s": "ieuskYKjYMpdzSyFa1eCkA==",
+    "i": "MaERXKgXK2ltTXe/",
+    "c": "Eh3Mnyy8VnUHVW+Eke94NSJqlhIqiz5/VtflBzmgrYlch80m/cwSTk1tL4GlfCudQUcdk5KUg+q5AaBIXnZ0HSIBubqbj6GeCbd0xKkJn0UAh4e3AEiH5g=="
+   }
+  },
+  {
+   "slug": "cyril",
+   "nombre": "CYRIL KAMER",
+   "sello": "LORE",
+   "generos": [
+    "Afrobeat",
+    "Drill",
+    "Pop"
+   ],
+   "foto": "media/artistas/cyril.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1FVhDk_oFLcZlHDgtmTCz-Rj9Nw59LxB-",
+   "clave": {
+    "it": 210000,
+    "s": "T0AW32ngli7O5MJQnWHWQw==",
+    "i": "fbHXHKw/EURbyc0y",
+    "c": "Is/EsXV/v9as2QPXqBFABnH3cLRs2ETSB7QbkegBAqUamHCQVPhAGJkcxZ/z+4HdUAkJt9RiJoIBAPMgC3Yqb5lDvLwGN3peWPmjKe5IazMazkseyhrYZg=="
+   }
+  },
+  {
+   "slug": "cero",
+   "nombre": "CÉRO",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Rap",
+    "Reggaetón"
+   ],
+   "foto": "media/artistas/cero.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1ucZHAOZRtBGaFOir1vTjh3odzJNVldx1",
+   "clave": {
+    "it": 210000,
+    "s": "EfIYoOauGkT+l6Q0slaENw==",
+    "i": "KNWFpjEKwVc3V9al",
+    "c": "0PAizOkmVTVxIOWjVlqh7Y41kfPNaX7aqnMFY54X52e8a+sKZnMAsQR2UG4hY5lPgr8bSyp4n4XvIWm+UPi1Aiu3zoXwuobe7+kGisDu2qiOUVRETaw8Ig=="
+   }
+  },
+  {
+   "slug": "DAVS",
+   "nombre": "DAVS",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Pop"
+   ],
+   "foto": "media/artistas/DAVS.webp",
+   "carpeta": "",
+   "clave": null
+  },
+  {
+   "slug": "dib",
+   "nombre": "DIB",
+   "sello": "LORE",
+   "generos": [
+    "Rap",
+    "Reggaetón",
+    "Trap"
+   ],
+   "foto": "media/artistas/dib.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1USJSkOTCeOcRanqGb1tCPsWhho6RV5z0?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "JIrxfJUja0X+2TW8b6knlw==",
+    "i": "7vO61Ar5cuTBkVQj",
+    "c": "D2uXSZXvQkrqDiCLuG1Nsj894dDbX0BzatH1QBV0Q4zsJSS58hoNhGF3AqMRD20+Sk9ble0XCNGlYiS1cli9mYjOMbbDk64C7DYIWpawCJjiM3ewpjah0RwrmTkas9Bg3EN7Eg=="
+   }
+  },
+  {
+   "slug": "djcejas",
+   "nombre": "DJ CEJAS",
+   "sello": "LORE",
+   "generos": [
+    "Urbano"
+   ],
+   "foto": "media/artistas/djcejas.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1Rh73ALgY-UVbPtMp1gRhjxCnAvhUWT_M",
+   "clave": {
+    "it": 210000,
+    "s": "fs+E2EwjT1bbVv/EeL4WxQ==",
+    "i": "YGTnhD4tr1tY1GpZ",
+    "c": "GuO0aNGT44dH2S8nFAdHgIH+ocMW+cOQN+5Z8WquX26Q4/qTFancZo3VEzek9R56HA2kgXTzD9zUq/ps/qa0tgP5eawQcQ9zwaN199ksKFrXW7FTH//QEA=="
+   }
+  },
+  {
+   "slug": "elbobodelas3000",
+   "nombre": "EL BOBO DE LAS 3000",
+   "sello": "LORE",
+   "generos": [
+    "Flamenco",
+    "Pop"
+   ],
+   "foto": "media/artistas/elbobodelas3000.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1Qlb3LVq1Y2DU6yF-uRbRaA-Y46La4ctv?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "Zj8Ybpl240YNMeNBSISpPQ==",
+    "i": "Hri+4oKlYbowwkuC",
+    "c": "XAmDSwJ7qG4LqUBAoJBe7RFFAkEF4BgIcpAByTA7zp0HpAaMFopZDaxwB5AYAo9bcmfD9z+962GWVsdJBZ4BuE2g7bn4quEep2DexbAy7DrJeq16dEHqHDa5KONgoirer4CLfQ=="
+   }
+  },
+  {
+   "slug": "gloosito",
+   "nombre": "GLOOSITO",
+   "sello": "LORE",
+   "generos": [
+    "Rap"
+   ],
+   "foto": "media/artistas/gloosito.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1OoKC9d4kC5LY1xIc3PVfi7h7AmESOGgr",
+   "clave": {
+    "it": 210000,
+    "s": "Ypx9e2YhiONfO+pBDjdRGw==",
+    "i": "2BM7mcIrlCa+emZ6",
+    "c": "8iueRdGso2B2wauXR/+uWiw/sRrZRufe8p3yP3ciMAuk3BZWDWXUJpV7dRj7oQgLzPeqXOHcsNIBIqDBQViwWFiW2s2L/zlS0IeWY0GesuhjP+vFaFneEA=="
+   }
+  },
+  {
+   "slug": "grauu",
+   "nombre": "GRAUU",
+   "sello": "LORE",
+   "generos": [
+    "Hip-Hop",
+    "Rap",
+    "Reggaetón"
+   ],
+   "foto": "media/artistas/grauu.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1Hn3UKiJdwDZnZdecJzHKResgRbv05015?usp=drive_link",
+   "clave": {
+    "it": 210000,
+    "s": "8RofzmfLIj4XwS9sbYUDtA==",
+    "i": "mOaN14oXXEfH9rSo",
+    "c": "oPnbIf9DnFvJ8otVt0swQW1gv5VzeGxamp3SHdt968oSNYVezsKifyjTqTvwvpYxMpcIMUgV63X4xOd8BZqxzGQAk8d3Y3BLDnkObbudNc/1HOzJZz9YmY2JRJKif0tlGQTZ2Uhx+A=="
+   }
+  },
+  {
+   "slug": "junnio",
+   "nombre": "JUNNIO",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Pop",
+    "Rock"
+   ],
+   "foto": "media/artistas/junnio.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1RNe26cgpbL2o5uU6uLvUJd7hKGiVdeiB",
+   "clave": {
+    "it": 210000,
+    "s": "ti+rLL5ZX9GPouFqiW2c+g==",
+    "i": "XpKzMbP9XZ+2lpZD",
+    "c": "+L7qA6U2Sxrir0a2wN9RSeUCacMxwcsenua2DpDztPDHG31Xl0XO6vYSjw3tRnVtKw74R+uBxGMK85d0/psmaCmouTyRaE16d8WRmlqHdsFAO3HB9YZDfQ=="
+   }
+  },
+  {
+   "slug": "juseph",
+   "nombre": "JUSEPH",
+   "sello": "LORE",
+   "generos": [
+    "Rap",
+    "Reggaetón",
+    "Trap"
+   ],
+   "foto": "media/artistas/juseph.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1PAzqe9ZRJKQiQ_S4cJLpJsRg4VttXbL7",
+   "clave": {
+    "it": 210000,
+    "s": "TZfVnl2RRHLdIokMcNwpCw==",
+    "i": "xxAjIawMEPpJrGO6",
+    "c": "3eW8u0I5PRNwWyC4mNLNnikXiyGQh0lqE6W/lvtZkn7VVLaJaa9OrmBY/uyP5Q5EM+Q6j1MSqo2PqjD53hf1/p1b2ib1AcHT+xfMdl9j9bT5uLaAu48j4Q=="
+   }
+  },
+  {
+   "slug": "kabasaki",
+   "nombre": "KABASAKI",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Reggaetón"
+   ],
+   "foto": "media/artistas/kabasaki.webp",
+   "carpeta": "",
+   "clave": null
+  },
+  {
+   "slug": "kaidycain",
+   "nombre": "KAYDY CAIN",
+   "sello": "LORE",
+   "generos": [
+    "Rap",
+    "Trap"
+   ],
+   "foto": "media/artistas/kaidycain.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1fZ6whdiQHkTNgZfrSuySyg-WuUIAEbdX",
+   "clave": {
+    "it": 210000,
+    "s": "0O7w1rJsU5KHJoqyIZViyw==",
+    "i": "FOdQ0WNgKTt30iFw",
+    "c": "T8KtbnSB0drJMHsgBY0GQ/GwCW7clCknkTPXw2J9R4rEC9tIjVVFWbKvAgyEQPv3yQzQLb1B8w07qMxgb9ntTJhnWJ6zxc2EYNFr6biL5HCPbuD8JYyADQ=="
+   }
+  },
+  {
+   "slug": "kg970",
+   "nombre": "KG970",
+   "sello": "LORE",
+   "generos": [
+    "Drill",
+    "Rap",
+    "Trap"
+   ],
+   "foto": "media/artistas/kg970.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1WPCg7iYBrnzf_stMthaxap_GEmWLVnxw",
+   "clave": {
+    "it": 210000,
+    "s": "OwxZxDBQV8XxA6F88RoRkw==",
+    "i": "3IzF7vp0ukPrpAfw",
+    "c": "aff4Pu11uty2wBPoy5PMXHWye7LI9uok3bSEslY4AX9BqOKHpauj8GVDT0IR1AmbxuWUPyyomQib0Uw+j0apTfhQJN61cWIFSBctOIHHpd7lA+igYWrPEw=="
+   }
+  },
+  {
+   "slug": "lorna",
+   "nombre": "L0RNA",
+   "sello": "LORE",
+   "generos": [
+    "Urbano"
+   ],
+   "foto": "media/artistas/lorna.webp",
+   "carpeta": "https://drive.google.com/drive/folders/14fNvWZgTwM4dP-j-fRBUJlMIpCYpDgC9?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "MYy0CxtnmQONUP8H0aV3sA==",
+    "i": "bAaaUEL1ltSbbLPG",
+    "c": "Qk9ElvDpH2slDOw8rhLupebUCULtiRiCEMHdqeTLpHF7ggmtp4feR5E5kdsFC2hNre0ngo3bx3u9kq4jas5+zTIkfuonbwBDdMb/SyQbQSY8HKXESqWPV4a2ytGXh3jw6OrqVg=="
+   }
+  },
+  {
+   "slug": "lunaki",
+   "nombre": "LUNA KI",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Pop",
+    "Rap"
+   ],
+   "foto": "media/artistas/lunaki.webp",
+   "carpeta": "https://drive.google.com/drive/folders/19A8CVp1mG3vmXDz-Lu38yfoHionoiZRX?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "QXJ1XSsmh5zKWXhMmcud4g==",
+    "i": "R1Fg9wjcBrvaqlwa",
+    "c": "pcCrrU0bP4zDZlJvujYpiHSLHerVuaoNrkjBc8R6+LuN1XM3gM8nYcQKYFn2LnqYgOGZ5H37HyAb2SfQgJXTXN5OzfD79zWsyNYhLBQBhbnBLCBxwVKf432lb4SZs0fwXV95pA=="
+   }
+  },
+  {
+   "slug": "mabbi",
+   "nombre": "MABBI",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Pop",
+    "Reggaetón"
+   ],
+   "foto": "media/artistas/mabbi.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1ywBG5P5GIbwLW2h6o97NHo57dqrBRoN4",
+   "clave": {
+    "it": 210000,
+    "s": "msfDGsrhhNBR6MQTFnCjNQ==",
+    "i": "nG3Cvv7cqfyhgN/V",
+    "c": "rqDQMy56TMXTzLk3ZDoOzjoZLAH83VK9qp+TDBn6YkdMHI1bP6UK7Ac2ApZH+p0tcZ/An4OjHWFyrnujbGtTws9tUW92P4UqASoKLoRMZPu8Wtr7shEZbA=="
+   }
+  },
+  {
+   "slug": "marcsegui",
+   "nombre": "MARC SEGUÍ",
+   "sello": "LORE",
+   "generos": [
+    "Electrónica",
+    "Pop"
+   ],
+   "foto": "media/artistas/marcsegui.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1Wnulc0ms4N5UEJ9UOYjGrjcHsqQZr3--",
+   "clave": {
+    "it": 210000,
+    "s": "nh+fO8rWZ/jIT9Mr5nl/SA==",
+    "i": "h/xh/ox2jHIGAOnd",
+    "c": "91lR3146vatakq14OH8imBqDGF4GqvsRw21p9NBd8n6boQ8sGXMUrVzLalr+LHIyfU4QCfZArwDhv28vtvwUXLQmAYK+9/ITxk3NYUFYWXcoXm1Mp0HIiA=="
+   }
+  },
+  {
+   "slug": "mayo",
+   "nombre": "MAYO 214",
+   "sello": "LORE",
+   "generos": [
+    "Hip-Hop",
+    "Pop",
+    "Rap"
+   ],
+   "foto": "media/artistas/mayo.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1z8RI1naiZlP_kMEZWyuqqUyo9jFZrEIU",
+   "clave": {
+    "it": 210000,
+    "s": "Zl0vVVrFWXMpEYjbYk4cTQ==",
+    "i": "QT96dA79J7jkm0/c",
+    "c": "RntxZdkHziM/xl1Ui/X0KjIqMlI2XFiSyI8ZvXtQRe+bzfFJ9AzL+2gJ81jEw7Y8m7NXebSYzovtIOa1WBxdjARuFn2Lef5Y5u9dTaWBEGYUHL0ElOYCoA=="
+   }
+  },
+  {
+   "slug": "neverysoke",
+   "nombre": "NEVER & SOKE",
+   "sello": "LORE",
+   "generos": [
+    "Drill",
+    "Rap",
+    "Trap"
+   ],
+   "foto": "media/artistas/neverysoke.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1VwLb4vf83cZ6zEMWzur016SOBlM5ADx5",
+   "clave": {
+    "it": 210000,
+    "s": "lHRnKiRXdXWPBJCPZTfFvg==",
+    "i": "yDkVDptgzX26Itwk",
+    "c": "2JMuCU6DKHoBFmbljBv1dIalya7jatuw8lp3OFrK2gdR+qE4nAGy0830j6cIP81QZXPlJ62W5CaHkyPAUoD+8QVJtlstApPkPFTzQa15+w1SdPXcBkAmMg=="
+   }
+  },
+  {
+   "slug": "oldpurp",
+   "nombre": "OLDPURP",
+   "sello": "LORE",
+   "generos": [
+    "Rap",
+    "Trap"
+   ],
+   "foto": "media/artistas/oldpurp.webp",
+   "carpeta": "https://drive.google.com/drive/folders/15lQ3X8bMxe7OExUgaF9NBvbI0ypTSih4?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "DFYvKo/nxpOxUczT9G0JRw==",
+    "i": "cW+xBsZSOTCJjJJc",
+    "c": "u0A0zzed8U3Ou+9UitDxes7TtNp9KtB4B6fDlksHHm7yUtVIOxKUV+xh9qQeNFYj9Gx+M3keg3K+ASDxdTW9bhEi8lPglD8UH2zmIAhiA16cwZn3A0pMflwFDlWu8oB7Dhq+Mw=="
+   }
+  },
+  {
+   "slug": "rvfv",
+   "nombre": "RVFV",
+   "sello": "LORE",
+   "generos": [
+    "Urbano"
+   ],
+   "foto": "media/artistas/rvfv.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1qRc1XOWtnKrXH5LRNiKUd1R7UUI3sCkQ",
+   "clave": {
+    "it": 210000,
+    "s": "ziJ+uERiHJC6x6izO3Kkbg==",
+    "i": "8IejnbsLBo13eG41",
+    "c": "rEnJosoAZ0vvh9dmLbTMyru4h9MRNooPhmmiTTDlpKgkt/QQc6P5dQV8IEBRi+URNach8eFvBZ2lTod9NyFzLSlDmN2k5y7Y6qCKJk16CYdP91xfVXvY0g=="
+   }
+  },
+  {
+   "slug": "sen6",
+   "nombre": "SEN6",
+   "sello": "LORE",
+   "generos": [
+    "Afrobeat",
+    "Rap"
+   ],
+   "foto": "media/artistas/sen6.webp",
+   "carpeta": "https://drive.google.com/drive/folders/18RoDMYfGBELOvz1wlQZqbmmRY7x6AlPD?usp=sharing",
+   "clave": {
+    "it": 210000,
+    "s": "WMm2raGtHc9HDe6ZJkx13Q==",
+    "i": "V1s1Y/Fn8pu9TM26",
+    "c": "+Lby1+zhoROZYLUveTGwpMEHvVC+78oXLaaet/53HThIz6psMu0ASoUme6VG+uJUebe83xaJMRWvxSEIYUC9e5xvn5mfv1Z4pIk4efrOQmWL1rea4FxIidBRsYRLcNjwYBLzQw=="
+   }
+  },
+  {
+   "slug": "vrenoyg",
+   "nombre": "VRENO YG",
+   "sello": "LORE",
+   "generos": [
+    "Urbano"
+   ],
+   "foto": "media/artistas/vrenoyg.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1V7XXSlKEotBSjHQvh9lL6DoXRCij2Ria",
+   "clave": {
+    "it": 210000,
+    "s": "OnbiT2zuYfAl58j9u94OMA==",
+    "i": "eMEYGdRzbgjd7ukt",
+    "c": "e74DWOSqkV/Yq+6c4g1yEkDKgAssUOo5TmLijPZOhtUFRUvHgjsM+q5hMbdbA63woOnEna0WQvm+pKpyHMLPsjEB3aVjBrMbXDAuD+7KxKZYWUAhAeRzPA=="
+   }
+  },
+  {
+   "slug": "yassir",
+   "nombre": "YASSIR",
+   "sello": "LORE",
+   "generos": [
+    "Rap"
+   ],
+   "foto": "media/artistas/yassir.webp",
+   "carpeta": "https://drive.google.com/drive/folders/1qdg2oijMEoitI7KJnpYkYAM2seQtaGnN",
+   "clave": {
+    "it": 210000,
+    "s": "KNRt2vGQ+RAX2/YX6bGgkg==",
+    "i": "NK2nYJbHQ1o65rpl",
+    "c": "dM1u2yfKXBzFeybwoBBNjL4jdTUdXPyjqJX6fjibL6hsgUeVNb6VvTUlG2jS5OL190rc0ISip03FtZXoi46PJKFKbzNC5ck1oB2ZP/BKh3dMIYC0tkR3/A=="
+   }
+  }
+ ]
+}
